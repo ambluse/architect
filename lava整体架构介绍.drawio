@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T06:46:30.985Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="mIhQnqxOGypXczyFfj7n" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T06:54:26.897Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="P2DEJzwIiDhHXdnu8BEN" version="18.0.4" type="github">
   <diagram id="YGyWwBR8GW7f5tUFGt1-" name="Page-1">
-    <mxGraphModel dx="1145" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2306" dy="1163" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,8 +97,8 @@
         <mxCell id="Co8j-teDGv5cihCNZBdA-41" value="消息历史" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="574" y="315" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Co8j-teDGv5cihCNZBdA-42" value="消息条推送服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="513" y="240" width="100" height="20" as="geometry" />
+        <mxCell id="Co8j-teDGv5cihCNZBdA-42" value="消息推送服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="522" y="241" width="82" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Co8j-teDGv5cihCNZBdA-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="230" width="160" height="120" as="geometry" />
